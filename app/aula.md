@@ -30,8 +30,24 @@ Constantes
 
 Strings (textos) : "" '' ``
 Number: 2, 1.4
-function
+Boolean: true or false
 
 ## Operadores
 
-Operadores de atribuição de valor
+Operadores de atribuição de valor =
+Operador de concatenação +
+
+## Array
+
+uma lista que contém qualquer tipo de dado
+
+## Objetos
+
+- Atributos e métodos
+- Criação e manipulação de objetos
+- Acesso a propriedades de objetos
+
+## Functions
+
+- named function
+- arrow function

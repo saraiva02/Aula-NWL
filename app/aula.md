@@ -55,3 +55,7 @@ uma lista que contém qualquer tipo de dado
 # Estrutura de repetições
 
 - while
+
+# Condicionais 
+
+- Switch

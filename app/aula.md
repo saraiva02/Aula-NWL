@@ -59,3 +59,15 @@ uma lista que contém qualquer tipo de dado
 # Condicionais 
 
 - Switch
+
+## Módulos em Node.js:
+
+Importação dos módulos (require, CommonJS)
+
+> nmp install inquerer (terminal)
+
+Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+Uso de funções assíncronas (async/await)

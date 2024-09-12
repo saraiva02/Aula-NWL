@@ -47,7 +47,11 @@ uma lista que contém qualquer tipo de dado
 - Criação e manipulação de objetos
 - Acesso a propriedades de objetos
 
-## Functions
+### Functions
 
 - named function
 - arrow function
+
+# Estrutura de repetições
+
+- while

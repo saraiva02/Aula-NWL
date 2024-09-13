@@ -34,8 +34,9 @@ Boolean: true or false
 
 ## Operadores
 
-Operadores de atribuição de valor =
-Operador de concatenação +
+- Operadores de atribuição de valor =
+- Operador de concatenação +
+- Operadores de comparação == != <= >= < >
 
 ## Array
 
@@ -59,6 +60,7 @@ uma lista que contém qualquer tipo de dado
 # Condicionais 
 
 - Switch
+- If/Else
 
 ## Módulos em Node.js:
 

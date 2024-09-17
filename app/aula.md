@@ -26,7 +26,7 @@ Apresentar os dados
 Variáveis globais e locais
 Constantes 
 
-# |Tipos de dados
+# Tipos de dados
 
 Strings (textos) : "" '' ``
 Number: 2, 1.4
@@ -40,7 +40,8 @@ Boolean: true or false
 
 ## Array
 
-uma lista que contém qualquer tipo de dado
+- uma lista que contém qualquer tipo de dado
+- metodos de array: push, find, forEach
 
 ## Objetos
 

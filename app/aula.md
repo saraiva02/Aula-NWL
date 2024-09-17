@@ -37,11 +37,12 @@ Boolean: true or false
 - Operadores de atribuição de valor =
 - Operador de concatenação +
 - Operadores de comparação == != <= >= < >
+- Spreed operator ...
 
 ## Array
 
 - uma lista que contém qualquer tipo de dado
-- metodos de array: push, find, forEach
+- metodos de array: (push, find, forEach) : HOF(Higher Order Functions)
 
 ## Objetos
 

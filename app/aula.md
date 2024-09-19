@@ -42,7 +42,7 @@ Boolean: true or false
 ## Array
 
 - uma lista que contém qualquer tipo de dado
-- metodos de array: (push, find, forEach) : HOF(Higher Order Functions)
+- metodos de array: (push, find, forEach, filter, map) : HOF(Higher Order Functions)
 
 ## Objetos
 
